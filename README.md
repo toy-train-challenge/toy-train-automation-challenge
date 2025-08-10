@@ -33,3 +33,11 @@ You have complete freedom in how you approach this challenge. Here are a few ide
 * LLM Carnage: Have an LLM in control of functions in your contol center - A splendid way to demonstrate what a LLM can not do.
 
 This is your chance to be creative, innovative, and to build something truly unique. We can't wait to see what you create
+
+## Influences 
+
+* Coderetreat - Do things for the  sake of doing them (right)
+* Great Ball Contraption - The loading and unloading part
+* A diverse set of Bricks based Toy Train automation youtube channels
+* Electronic and Maker community - When it does not exist, it can be built
+* Model Railroad community - Doing this for a long time
