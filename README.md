@@ -6,18 +6,23 @@ You can use off-the-shelf parts and software, or you can take on the challenge o
 
 The more you build yourself, the bigger/more complex the train system is and the more goods you are able to transport: the more points you'll earn.
 
-Core Challenges
+## Deliberate Practice
+
+* Failling an attempt should be part of what we do here. Thi sis about experimentation and learning new things.
+* This challenge combines multiple areas of expertise. Be aware it is impossible to 'know it all here' - Let alone 
+
+## Core Challenges
 
 Here are some of the challenges you'll need to overcome:
 
 * Your system must be able to follow a predefined mission plan, such as moving specific between locations.
 * Can your system handle the complexity of multiple trains running on the same track simultaneously?
 * Advanced Switching: Implement automated switching
-*  Develop a system for moving predefined goods from point A to point B.
+* Develop a system for moving predefined goods from point A to point B.
 * Your system should be able to automatically detect and report failures.
 * Will you use vendor-provided tracks or design and print your own for extra points?
 
-## Possible Avenues for Your Solution
+## Possible Solutions
 
 You have complete freedom in how you approach this challenge. Here are a few ideas to get you started:
 
