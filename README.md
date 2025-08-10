@@ -1,6 +1,6 @@
 Are you ready to push the boundaries of your automation skills? 
 
-> We challenge you to build a fully autonomous train system capable of completing missions without human intervention. 
+> We challenge you to build a fully autonomous train system capable of completing missions. 
 
 You can use off-the-shelf parts and software, or you can take on the challenge of building everything from scratch. 
 
