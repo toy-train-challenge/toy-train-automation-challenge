@@ -9,7 +9,8 @@ The more you build yourself, the bigger/more complex the train system is and the
 ## Deliberate Practice
 
 * Failling an attempt should be part of what we do here. Thi sis about experimentation and learning new things.
-* This challenge combines multiple areas of expertise. Be aware it is impossible to 'know it all here' - Let alone 
+* This challenge combines multiple areas of expertise. Be aware it is impossible to 'know it all here' - Let alone
+
 
 ## Core Challenges
 
