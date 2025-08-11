@@ -5,6 +5,10 @@ This is about experimentation, learning, and having fun. Whether you're a season
 
 > The core task is to build a train system that can autonomously transport goods. You can use off-the-shelf parts or build everything from scratch. The more you build yourself, the more complex your system becomes, and the more you transport, the higher you score. This is a space for deliberate practice. Failure is not just an option; it's a learning opportunity. This project touches on so many different skills that no one can be an expert in everything. Let's learn from each other.
 
+This challenge is designed to be a crossroads for many different communities. For parents and kids, it's a fun, hands-on way to explore the basics of automation using familiar toys like Toy-Brick trains. For the maker and electronics community, it's a perfect opportunity to tinker with Arduinos, Raspberry Pis, and custom-built hardware to solve real-world control problems. Software developers can dive deep into writing their own control systems, tackling everything from simple scripts to complex, multi-threaded applications. Meanwhile, seasoned model railroad enthusiasts can bring their deep knowledge of automation to a new and accessible platform. It’s a project where a 10-year-old’s simple cargo-mover and a software engineer’s complex, multi-train network can exist side-by-side, with everyone learning from each other.
+
+
+
 ## Key Milestones
 
 Here are some of the hurdles you might tackle:
